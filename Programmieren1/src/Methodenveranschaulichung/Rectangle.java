@@ -4,7 +4,7 @@ public class Rectangle {
 
 	public static int fläche (int höhe, int breite) {
 		int a = höhe*breite;
-		System.out.println();
+		System.out.println("Hallo");
 		return a;
 	}
 	

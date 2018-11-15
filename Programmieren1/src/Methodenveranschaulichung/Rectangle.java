@@ -9,6 +9,8 @@ public class Rectangle {
 	
 	public static int umfang (int höhe, int breite) {
 		int u = 2*höhe + 2*breite;
+		System.out.println("Hsllo");
 		return u;
+
 	}
 }
